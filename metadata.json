@@ -1,0 +1,6 @@
+{
+  "name": "PushUp Hero - AI Vision Push-up & Plank Tracker",
+  "description": "Smart vision-based push-up and plank tracker with camera rep counter, custom daily and weekly goals, leaderboards, streak tracking, and motivational coaching.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
